@@ -1,2 +1,2 @@
-# CSCN8010_labs
+# CSCN8010-labs
 Foundation of Machine Learning
